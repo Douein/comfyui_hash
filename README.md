@@ -2,6 +2,7 @@ The purpose of this two hash file is to skip calling the graph-generated text mo
 
 The nodes file is provided to load the completed node
 It can also be loaded manually:
+
 	from hash import ImageHashNode  # 导入 ImageHashNode 类
 
 	NODE_CLASS_MAPPINGS.update({
